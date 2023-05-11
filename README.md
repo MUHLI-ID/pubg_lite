@@ -1,16 +1,19 @@
 # Project Global Owner
-## Pemilik Src
-@MUHLI ID 
-@ISRAFIL SARKER
-@MIRIOWNER
 ```
 waduh sorry nih kalo cara download nya via termux ya soalnya
 kalo pake yang lain lumayan malas aja cuyy untuk cara 
 download ada di bawah atau chat aja tar saya kasih kalo lu mau
 ```
 klik ini Untuk Chat ke WhatsApp ==> [Buka Link](https://api.whatsapp.com/send?phone=+6285861878610)
-### Cara Download Via Termux
-```bash
+## Pemilik Src
+```
+@MUHLI ID 
+@ISRAFIL SARKER
+@MIRIOWNER
+```
+
+## Cara Download Via Termux
+```
 $termux-setup-storage
 $cd /sdcard
 $pkg install
@@ -19,7 +22,7 @@ $git clone https://github.com/MUHLI-ID/pubg_lite
 
 ## Info Src
 >Pubg Lite / Versi 0.25.0
-```bash
+```
 classes.dex/SharpshooterKill
 classes4.dex/adrt
 classes4.dex/com
@@ -29,7 +32,7 @@ lib/armeabi-v7a/libMR_INSANE.so/main.cpp
 ```
 ## Fitur Scr
 >Rekomendasi Combo Dengan Config
-```bash
+```
 Auto Aktif Bypass 
 Esp Line
 Esp Box
