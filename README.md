@@ -19,9 +19,9 @@ sebelum kalian buat mod menu nya
 download terlebih dahulu bahan yang di perlukan
 agar work dan tidak error
  ```
-Pubg Lite 32Bit Src original ===> [Download](https://www.mediafire.com/file/gmyvy0c5wuviern/PUBGM+LITE_0.25_32BIT.apk/file)
-Mt Manager ===> [Download](https://download.apkcombo.com/bin.mt.plus/MT%20Manager_2.13.4_apkcombo.com.apk?ecp=YmluLm10LnBsdXMvMi4xMy40LzIzMDQwMTgzLjgyMWYyOGY3MTllYTk3Y2YzYzFlMDExNTNhZDcwZTIxMDU1OWIxOTguYXBr&iat=1683784065&sig=aab79bfecb052f2686a356267010e2e5&size=20958736&from=cf&version=latest&lang=id&fp=f27f12390271782a5dfc2a87bf4b679f&ip=112.215.211.56)
-Termux ===> [Download](https://f-droid.org/repo/com.termux_118.apk)
+1. Pubg Lite 32Bit Src original ===> [Download](https://www.mediafire.com/file/gmyvy0c5wuviern/PUBGM+LITE_0.25_32BIT.apk/file)
+2. Mt Manager ===> [Download](https://download.apkcombo.com/bin.mt.plus/MT%20Manager_2.13.4_apkcombo.com.apk?ecp=YmluLm10LnBsdXMvMi4xMy40LzIzMDQwMTgzLjgyMWYyOGY3MTllYTk3Y2YzYzFlMDExNTNhZDcwZTIxMDU1OWIxOTguYXBr&iat=1683784065&sig=aab79bfecb052f2686a356267010e2e5&size=20958736&from=cf&version=latest&lang=id&fp=f27f12390271782a5dfc2a87bf4b679f&ip=112.215.211.56)
+3. Termux ===> [Download](https://f-droid.org/repo/com.termux_118.apk)
 ## ke 2 Cmd Termux
 >Copy Dan Paste Ke Termux
 ```
