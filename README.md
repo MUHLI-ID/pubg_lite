@@ -1,7 +1,7 @@
 # Project Global Owner
 ### Pemilik Src
 >@MUHLI ID 
->@ISRAFIL SARKER
+-@ISRAFIL SARKER
 
 
 waduh sorry nih kalo cara download nya via termux ya soalnya
